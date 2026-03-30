@@ -3,9 +3,9 @@
 🚀 **Application Support Specialist | Email Marketing | API Troubleshooting | Email Systems**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Application%20Support-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-MarTech-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platform-Sailthru-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Application%20Support-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Marketing Automation-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-Sailthru-green?style=for-the-badge">
 </p>
 
 ---
